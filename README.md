@@ -1,5 +1,7 @@
 # devbet_0
 
+## How much you could've earn if you'd bought bitcoins?
+
 Hi,
 
 Nowadays everyone talks about cryptocurrencies. There were many cases when people sold bitcoins at an extremely low price (one guy bought 2 pizzas for 10000 btc - currently worth about $100.000.000). Even I was thinking about buying 150 btc for about $15...
