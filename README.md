@@ -21,3 +21,29 @@ Commands:
 "sell" additional attributes: amount [float] Sells BTC using current USD account
 
 "pass" Simply skips current day
+
+## Examples
+JavaScript:
+```javascript
+const trader = async (prices, initialSum) => {
+    return [
+        {
+            op: 'buy',
+            amount: 500,
+        }, 
+    ];
+};
+```
+
+Python:
+```python
+def trader(prices, initialSum):
+    cmd = []
+    cmd.append(
+        {
+            'op': 'buy',
+            'amount': 500,
+        })
+
+    return cmd
+```
